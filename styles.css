@@ -1,9 +1,8 @@
 h1 {
     color: #cc0000;
     font-family: Arial;
-    background-image: url("http://lolwp.com/wp-content/uploads/2014/07/Gnar-Teaser-Background.jpg");
 }
 
-.text {
-    
+body {
+    background-image: url("http://lolwp.com/wp-content/uploads/2014/07/Gnar-Teaser-Background.jpg");
 }

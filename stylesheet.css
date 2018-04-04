@@ -57,11 +57,11 @@ body {
 }
 
 header{
-    background: black;
-    color: red;
+    background: #191919;
+    color: white;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: orange 3px solid;
+    border-top: #191919 3px solid;
 }    
 
 header a{

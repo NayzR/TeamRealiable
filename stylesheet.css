@@ -46,7 +46,7 @@ body {
     
     margin: 0;
     
-    background-color: grey;
+    background-color: #262626;
     
 }
 
@@ -61,7 +61,7 @@ header{
     color: white;
     padding-top: 30px;
     min-height: 70px;
-    border-top: #191919 3px solid;
+    border-top: #262626 3px solid;
 }    
 
 header a{

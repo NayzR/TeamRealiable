@@ -4,7 +4,7 @@ h1 {
     
     font-family: 'Roboto Condensed', sans-serif;
     
-    font-size: xlarge;
+    font-size: 150px;
     
     font-style: normal;
     
@@ -49,6 +49,7 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;
+    font-size: 20px;
 }
 
 li {

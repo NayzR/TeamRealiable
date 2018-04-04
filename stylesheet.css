@@ -36,6 +36,8 @@ body {
     
     margin:0;
     
+    bgcolor=#1e1e1e
+    
 }
 
 ul {
@@ -50,7 +52,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {

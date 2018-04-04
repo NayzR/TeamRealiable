@@ -1,4 +1,4 @@
-h1 {
+/*h1 {
     
     color:#800000;
     
@@ -28,14 +28,18 @@ h1 {
 
 
     
-}
+}*/
 
 body {
     
     background-image: url("https://cdn.lolalytics.com/image/background/background.jpg");
     
-    margin:0;
+    /*font-family: 'Roboto Condensed', sans-serif;
     
-    bgcolor=#1e1e1e
+    font-size: 15px;
+    
+    line-height: 1.5;*/
+    
+    font: 15px/1.5 'Roboto Condensed', sans-serif;
     
 }

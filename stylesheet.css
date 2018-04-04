@@ -53,7 +53,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: center;
     
     font-family: 'Ubuntu', sans-serif;
 }

@@ -1,46 +1,6 @@
-/*h1 {
-    
-    color:#800000;
-    
-    font-family: 'Roboto Condensed', sans-serif;
-    
-    font-size: 40px;
-    
-    font-style: normal;
-    
-    font-weight: bold;
-    
-    text-align: left;
-    
-    text-decoration: none;
-    
-    font-variant: normal;
-    
-    text-shadow: 0px 0px 4px grey;
-    
-    text-transform: capitalize;
-    
-    letter-spacing: -1px;
-    
-    word-spacing: 0px;
-    
-    white-space: normal;
-
-
-    
-}*/
-
 body {
     
-    /*background-image: url("https://cdn.lolalytics.com/image/background/background.jpg");
-    
-    font-family: 'Roboto Condensed', sans-serif;
-    
-    font-size: 15px;
-    
-    line-height: 1.5;*/
-    
-    font: 8px 'Roboto Condensed', sans-serif;
+    font: 8px/1px 'Roboto Condensed', sans-serif;
     
     padding: 0px;
     

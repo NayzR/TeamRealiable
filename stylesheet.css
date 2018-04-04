@@ -61,7 +61,7 @@ li {
 li a {
     display: block;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 18px 22px;
     text-decoration: none;
 }

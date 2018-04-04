@@ -60,7 +60,8 @@ header{
     background: #191919;
     color: white;
     padding-top: 10px;
-    min-height: 30px;
+    padding-bot: 30px;
+    /*min-height: 30px;*/
 }    
 
 header a{

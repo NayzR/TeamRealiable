@@ -53,6 +53,8 @@ ul {
 
 li {
     float: left;
+    
+    font-family: 'Ubuntu', sans-serif;
 }
 
 li a {

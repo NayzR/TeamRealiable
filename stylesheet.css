@@ -59,8 +59,8 @@ body {
 header{
     background: #191919;
     color: white;
-    padding-top: 30px;
-    min-height: 70px;
+    padding-top: 10px;
+    min-height: 30px;
 }    
 
 header a{

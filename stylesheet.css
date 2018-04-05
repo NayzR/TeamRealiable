@@ -1,59 +1,59 @@
-/*Alles*/
+/*Gesamter Body*/
 body {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 10px;
     line-height: 1.5
-    padding: 0px;
-    margin: 0px;
-    background-color: #262626;
+    padding: 0;
+    margin: 0;
+    background-color: #191919;
+    color: white;
 }
 
-/*generisch*/
+/*Klasse container*/
 .container{
-    width: 100%;
-    margin: 0;
+    width: 80%;
+    margin: auto;
     overflow: hidden;
 }
 
 /*Gesamte Kopfzeile*/
 header{
-    background: #191919;
-    color: white;
+    background: #000000;
     padding-top: 60px;
-    /*padding-bot: 60px;*/
+    min-height: 70px;
 }    
 
 /* Links intern Kopfzeile*/
 header a{
-    color: white;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
 }
 
-/*Ungeordnete Listen*/
-header ul {
-    padding 0px;
-    verticle-align: middle;
+header ul{
+    margin: 0;
+    padding: 0;
 }
-
 /*List Objekte*/
 header li{
-    float: right;
+    float: left;
     display: inline;
     padding: 0 20px 0 20px;
 }
 
 /*Überschrift Kopfzeile*/
-h1{
+header #{
     float: left;
-    verticle-align: middle;
+}
+
+header # h1{
+    margin 0;
 }
 
 /* Navigationsleiste Kopfzeile*/
 header nav{
     float: right;
-    margin-top: 0px;
+    margin-top:10px;
 }
 
 /*Wilkommen 1. Absatz*/

@@ -13,7 +13,7 @@ body {
 .container{
     width: 0%;
     margin: 0;
-    overflow
+    overflow: hidden;
 }
 
 header{

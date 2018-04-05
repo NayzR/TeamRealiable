@@ -11,7 +11,7 @@ body {
 }
 
 .container{
-    width: 30%;
+    width: 70%;
     margin: 0;
     overflow: hidden;
 }
@@ -19,7 +19,7 @@ body {
 header{
     background: #191919;
     color: red;
-    padding-top: 0px;
+    padding-top: 5px;
     padding-bot: 0px;
     /*min-height: 30px;*/
 }    

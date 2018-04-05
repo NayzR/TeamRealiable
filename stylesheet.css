@@ -49,3 +49,7 @@ header nav{
     float: right;
     margin-top: 0px;
 }
+
+#welcome{
+    font-size: 20px;
+}

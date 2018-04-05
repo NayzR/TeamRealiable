@@ -32,8 +32,8 @@ header a{
 /*Ungeordnete Listen*/
 header ul {
     padding 0px;
-    verticle-align: middle;
 }
+
 /*List Objekte*/
 header li{
     float: right;
@@ -44,6 +44,7 @@ header li{
 /*Überschrift Kopfzeile*/
 h1{
     float: left;
+    verticle-align: middle;
 }
 
 /* Navigationsleiste Kopfzeile*/

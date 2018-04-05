@@ -10,7 +10,11 @@ body {
     
 }
 
-
+.container{
+    width: 0%;
+    margin: 0;
+    overflow
+}
 
 header{
     background: #191919;

@@ -49,6 +49,7 @@ h1{
 header nav{
     float: right;
     margin-top: 0px;
+    verticle-align: middle;
 }
 
 /*Wilkommen 1. Absatz*/

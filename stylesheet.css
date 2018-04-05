@@ -32,6 +32,7 @@ header a{
 /*Ungeordnete Listen*/
 header ul {
     padding 0px;
+    verticle-align: middle;
 }
 /*List Objekte*/
 header li{

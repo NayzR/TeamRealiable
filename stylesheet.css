@@ -16,6 +16,11 @@ body {
     overflow: hidden;
 }
 
+/*Listen Items*/
+header ul{
+    margin: 0;
+    padding: 0;
+
 /*Gesamte Kopfzeile*/
 header{
     background: #000000;
@@ -30,9 +35,7 @@ header a{
     font-size: 16px;
 }
 
-header ul{
-    margin: 0;
-    padding: 0;
+
 }
 /*List Objekte*/
 header li{

@@ -34,7 +34,11 @@ header a{
     font-size: 16px;
 }
 
-header ul{
+header ul {
+    padding 0px;
+}
+/*List Objekte*/
+header li{
     float: right;
     display: inline;
     padding: 0 20px 0 20px;

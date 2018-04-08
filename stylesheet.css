@@ -57,6 +57,13 @@ a {
   padding: 120px 350px 0 350px;
 }
 
+.elements h2 {
+  font-family: 'Open Sans', sans-serif;
+  padding: 50px 350px 0 350px;
+  font-size: 17px;
+
+}
+
 .elements p {
   font-family: 'Open Sans', sans-serif;
   padding: 10px 350px 0 350px;
@@ -78,5 +85,10 @@ footer li {
   padding: 9px 40px 0 0;
   display: inline-block;
   font-size: 14px;
+}
 
+script {
+  color: white;
+  font-size: 20px;
+  padding 100px;
 }

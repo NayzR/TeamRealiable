@@ -3,6 +3,7 @@ body {
   color: #fff;
   margin 0;
   padding: 0;
+  overflow: auto;
 }
 header {
   padding-left: 0;
@@ -47,6 +48,10 @@ header li {
   font-size: 14px;
 }
 
+a:hover {
+  color: #999999;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -61,7 +66,6 @@ a {
   font-family: 'Open Sans', sans-serif;
   padding: 50px 350px 0 350px;
   font-size: 17px;
-
 }
 
 .elements p {
@@ -91,4 +95,26 @@ script {
   color: white;
   font-size: 20px;
   padding 100px;
+}
+
+table, th, td {
+  border: 1px solid #999999;
+  border-collapse: collapse;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+
+}
+
+th {
+  background-color: #ffb200;
+}
+
+td:hover {
+  background-color: #323232;
+}
+
+.tactics {
+  height: 500px;
+  width: 500px;
+  padding: 20px 0 100px 350px;
 }

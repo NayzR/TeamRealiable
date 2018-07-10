@@ -118,3 +118,11 @@ td:hover {
   width: 500px;
   padding: 20px 0 100px 350px;
 }
+
+.op {
+  color: #0099ff;
+}
+
+.op:hover {
+  color: #0066ff;
+}
